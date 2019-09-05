@@ -1,0 +1,3 @@
+/home/sofia/CLionProjects/ corto de ESD/cineA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sofia/CLionProjects/ corto de ESD/cineA/cmake-build-debug/CMakeFiles/cineA.dir
+/home/sofia/CLionProjects/ corto de ESD/cineA/cmake-build-debug/CMakeFiles/edit_cache.dir

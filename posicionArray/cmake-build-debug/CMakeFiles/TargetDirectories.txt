@@ -1,0 +1,3 @@
+/home/sofia/CLionProjects/posicionArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sofia/CLionProjects/posicionArray/cmake-build-debug/CMakeFiles/posicionArray.dir
+/home/sofia/CLionProjects/posicionArray/cmake-build-debug/CMakeFiles/edit_cache.dir

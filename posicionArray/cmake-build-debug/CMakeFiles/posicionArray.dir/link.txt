@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/posicionArray.dir/main.cpp.o  -o posicionArray 

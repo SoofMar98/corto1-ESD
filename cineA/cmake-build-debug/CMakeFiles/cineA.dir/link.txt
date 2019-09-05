@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cineA.dir/main.cpp.o  -o cineA 
